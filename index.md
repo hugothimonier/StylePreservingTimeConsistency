@@ -1,20 +1,16 @@
 ## Learning Long Term Style Preserving Blind Video Temporal Consistency
 
 <div>
-    <h2><a style="width: 30%;margin: 5%;" href="https://www.linkedin.com/in/hugo-thimonier-65949ba6/" target="_blank">Hugo Thimonier</a>
-    	<a style="width: 30%;margin: 5%;" href="https://www.linkedin.com/in/juliendespois/" target="_blank">Julien Despois</a>
-    	<a style="width: 30%;margin: 5%;" href="https://www.linkedin.com/in/robin-kips/" target="_blank">Robin Kips</a>
-    	<a style="width: 30%;margin: 5%;" href="https://www.linkedin.com/in/matthieu-perrot-225ab01b/" target="_blank">Matthieu Perrot</a></h2>
+    <h2><a style="width: 25%;margin: 5%;" href="https://www.linkedin.com/in/hugo-thimonier-65949ba6/" target="_blank">Hugo Thimonier</a>
+    	<a style="width: 25%;margin: 5%;" href="https://www.linkedin.com/in/juliendespois/" target="_blank">Julien Despois</a>
+    	<a style="width: 25%;margin: 5%;" href="https://www.linkedin.com/in/robin-kips/" target="_blank">Robin Kips</a>
+    	<a style="width: 25%;margin: 5%;" href="https://www.linkedin.com/in/matthieu-perrot-225ab01b/" target="_blank">Matthieu Perrot</a></h2>
 </div>
 
 
 <p align="center">
   <img width="40%" src="img/loreal_research.png">
 </p>
-
-{* ## Video Summary
-<iframe style="display: block; margin: auto;" width="840" height="472.5" src="https://www.youtube.com/embed/HMZiSVKXkWo" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
-*}
 
 ## Abstract
 When trying to independently apply image-trained algorithms to successive frames in videos, noxious flickering tends to ap- pear. State-of-the-art post-processing techniques that aim at fostering temporal consistency, generate other temporal arti- facts and visually alter the style of videos. We propose a post- processing model, agnostic to the transformation applied to videos (e.g. style transfer, image manipulation using GANs, etc.), in the form of a recurrent neural network. Our model is trained using a Ping Pong procedure and its correspond- ing loss, recently introduced for GAN video generation, as well as a novel style preserving perceptual loss. The former improves long-term temporal consistency learning, while the latter fosters style preservation. We evaluate our model on the DAVIS and videvo.net datasets and show that our approach offers state-of-the-art results concerning flicker removal, and better keeps the overall style of the videos than previous ap- proaches.
