@@ -1,4 +1,4 @@
-## Learning Long Term Style Preserving Bling Video Temporal Consistency
+## Learning Long Term Style Preserving Blind Video Temporal Consistency
 
 <div>
     <h2><a style="width: 30%;margin: 5%;" href="https://www.linkedin.com/in/hugo-thimonier-65949ba6/" target="_blank">Hugo Thimonier</a>

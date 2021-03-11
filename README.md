@@ -1,2 +1,2 @@
-# AgingMapGAN
-AgingMapGAN (AMGAN): High-Resolution Controllable Face Aging with Spatially-Aware Conditional GANs
+#  Learning Long Term Style Preserving Blind Video Temporal Consistency
+
