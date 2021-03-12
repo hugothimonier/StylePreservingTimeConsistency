@@ -31,7 +31,7 @@ When trying to independently apply image-trained algorithms to successive frames
                 <b>Learning Long Term Style Preserving Bling Video Temporal Consistency.</b>
             </span>
             <br>
-            <span style="font-size:12pt">ICME, 2021 (Main Conference, Oral)</span>
+            <span style="font-size:12pt">ICME, 2021 (Main Track, Oral)</span>
             <span style="font-size:12pt"><a href="https://arxiv.org/abs/2008.10960" target="_blank">[arXiv]</a>&nbsp;<a href="bibtex.txt" target="_blank">[BibTeX]</a>&nbsp;<a href="supplementary_materials.zip" target="_blank">[Supplementary Materials]</a></span>
         </div>
     </div>
