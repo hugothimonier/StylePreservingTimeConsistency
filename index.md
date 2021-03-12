@@ -1,10 +1,12 @@
 ## Learning Long Term Style Preserving Blind Video Temporal Consistency
 
 <div>
-    <h2><a style="width: 25%;margin: 5%;" href="https://www.linkedin.com/in/hugo-thimonier-65949ba6/" target="_blank">Hugo Thimonier</a>
-    	<a style="width: 25%;margin: 5%;" href="https://www.linkedin.com/in/juliendespois/" target="_blank">Julien Despois</a>
-    	<a style="width: 25%;margin: 5%;" href="https://www.linkedin.com/in/robin-kips/" target="_blank">Robin Kips</a>
-    	<a style="width: 25%;margin: 5%;" href="https://www.linkedin.com/in/matthieu-perrot-225ab01b/" target="_blank">Matthieu Perrot</a></h2>
+    <h2>
+        <a style="width: 20%;margin: 5%;" href="https://www.linkedin.com/in/hugo-thimonier-65949ba6/" target="_blank">Hugo Thimonier</a>
+    	<a style="width: 20%;margin: 5%;" href="https://www.linkedin.com/in/juliendespois/" target="_blank">Julien Despois</a>
+    	<a style="width: 20%;margin: 5%;" href="https://www.linkedin.com/in/robin-kips/" target="_blank">Robin Kips</a>
+    	<a style="width: 20%;margin: 5%;" href="https://www.linkedin.com/in/matthieu-perrot-225ab01b/" target="_blank">Matthieu Perrot</a>
+    </h2>
 </div>
 
 
@@ -45,7 +47,7 @@ We also include skip-connections via concatenation from the encoder to the decod
 To train our model, we use two types of losses composed of six different losses: (i) Perceptual Losses : *L<sub>p</sub>* to ensure perceptual resemblence between the input and output frames, *L<sub>SP</sub>*for style preservation, (ii) Temporal Losses : *L<sub>PP</sub>* and *L<sub>rank</sub>*for both short term and long term temporal consistency, *L<sub>st</sub>* for short-term temporal consistency and *L<sub>lt</sub>* for long-term temporal consistency.
 
 <p align="center">
-  <img width="70%" src="img/model_framework.jpg">
+  <img width="70%" src="img/model_framework.png">
 </p>
 
 
@@ -99,5 +101,4 @@ The style preserving perceptual loss reduces deterioration of the brightness thr
 </div>
 
 ### Other works
-Check out our other paper presented at AIM (ECCV 2020): <a href="https://github.com/despoisj/AgingMapGAN" target="_blank">https://github.com/despoisj/AgingMapGAN</a>
-Check out our other paper presented at AIM (ECCV 2020): <a href="https://robinkips.github.io/CA-GAN/" target="_blank">https://robinkips.github.io/CA-GAN/</a>
+Check out our other papers presented at AIM (ECCV 2020): <a href="https://github.com/despoisj/AgingMapGAN" target="_blank">https://github.com/despoisj/AgingMapGAN</a> <a href="https://robinkips.github.io/CA-GAN/" target="_blank">https://robinkips.github.io/CA-GAN/</a>
