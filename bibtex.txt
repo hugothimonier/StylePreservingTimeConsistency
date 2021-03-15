@@ -1,6 +1,8 @@
-@inproceedings{despois2020agingmapgan,
-    title={AgingMapGAN (AMGAN): High-Resolution Controllable Face Aging with Spatially-Aware Conditional GANs},
-    author={Julien Despois, Frederic Flament, and Matthieu Perrot},
-    booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
-    year={2020}
+@misc{thimonier2021learning,
+      title={Learning Long-Term Style-Preserving Blind Video Temporal Consistency}, 
+      author={Hugo Thimonier and Julien Despois and Robin Kips and Matthieu Perrot},
+      year={2021},
+      eprint={2103.07278},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }

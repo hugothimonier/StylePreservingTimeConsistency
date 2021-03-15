@@ -20,7 +20,7 @@ When trying to independently apply image-trained algorithms to successive frames
 ### Paper & Supplementary Materials
 <div align="center" style="display:flex; margin-bottom:50px; margin-top: 30px;">
     <div style="width:20%;display: inline-block;">     
-        <a href="https://arxiv.org/abs/2008.10960" target="_blank">
+        <a href="https://arxiv.org/abs/2103.07278" target="_blank">
             <img class="layered-paper-big" style="max-height:200px" src="img/paper_thumbnail.jpg">
         </a>
     </div>
@@ -32,7 +32,7 @@ When trying to independently apply image-trained algorithms to successive frames
             </span>
             <br>
             <span style="font-size:12pt">ICME, 2021 (Main Track, Oral)</span>
-            <span style="font-size:12pt"><a href="https://arxiv.org/abs/2008.10960" target="_blank">[arXiv]</a>&nbsp;<a href="bibtex.txt" target="_blank">[BibTeX]</a>&nbsp;<a href="supplementary_materials.zip" target="_blank">[Supplementary Materials]</a></span>
+            <span style="font-size:12pt"><a href="https://arxiv.org/abs/2103.07278" target="_blank">[arXiv]</a>&nbsp;<a href="bibtex.txt" target="_blank">[BibTeX]</a>&nbsp;<a href="supplementary_materials.zip" target="_blank">[Supplementary Materials]</a></span>
         </div>
     </div>
 </div>
