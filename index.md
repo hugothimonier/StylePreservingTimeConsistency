@@ -101,4 +101,4 @@ The style preserving perceptual loss reduces deterioration of the brightness thr
 </div>
 
 ### Other works
-Check out our other papers presented at AIM (ECCV 2020): <a href="https://github.com/despoisj/AgingMapGAN" target="_blank">https://github.com/despoisj/AgingMapGAN</a> <a href="https://robinkips.github.io/CA-GAN/" target="_blank">https://robinkips.github.io/CA-GAN/</a>
+Check out our other papers presented at AIM (ECCV 2020): <a href="https://despoisj.github.io/AgingMapGAN/" target="_blank">https://despoisj.github.io/AgingMapGAN/</a> <a href="https://robinkips.github.io/CA-GAN/" target="_blank">https://robinkips.github.io/CA-GAN/</a>
