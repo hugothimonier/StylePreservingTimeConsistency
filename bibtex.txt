@@ -1,8 +1,9 @@
-@misc{thimonier2021learning,
-      title={Learning Long-Term Style-Preserving Blind Video Temporal Consistency}, 
-      author={Hugo Thimonier and Julien Despois and Robin Kips and Matthieu Perrot},
-      year={2021},
-      eprint={2103.07278},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
+@inproceedings{thimonier2021,
+        author={Thimonier, Hugo and Despois, Julien and Kips, Robin and Perrot, Matthieu},
+        booktitle={2021 IEEE International Conference on Multimedia and Expo (ICME)}, 
+        title={Learning Long Term Style Preserving Blind Video Temporal Consistency}, 
+        year={2021},
+        volume={},
+        number={},
+        pages={1-6},
+        doi={10.1109/ICME51207.2021.9428445}}
